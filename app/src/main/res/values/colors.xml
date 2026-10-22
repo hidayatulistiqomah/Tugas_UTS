@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="utama">#0F766E</color>
+    <color name="latar_halaman">#F2F7F6</color>
+    <color name="teks_judul">#12302D</color>
+    <color name="teks_samar">#6B7F7C</color>
+    <color name="garis_pemisah">#E1ECEA</color>
+    <color name="tab_tidak_aktif">#B3FFFFFF</color>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Tugas UTS</string>
+    <string name="subjudul_app">Daftar Produk &amp; Profil Developer</string>
+    <string name="tab_dashboard">Beranda</string>
+    <string name="tab_about">Profil</string>
+
+    <string name="judul_profil">Profil Mahasiswa</string>
+    <string name="subjudul_profil">Informasi Mahasiswa</string>
+    <string name="deskripsi_foto">Foto profil mahasiswa</string>
+    <string name="label_nama">NAMA LENGKAP</string>
+    <string name="label_nim">NOMOR INDUK MAHASISWA</string>
+    <string name="label_email">ALAMAT EMAIL</string>
+    <string name="isi_nama">Hidayatul Istiqoomah</string>
+    <string name="isi_nim">6304240011</string>
+    <string name="isi_email">hidayatul.istioqamah@gmail.com</string>
+
+    <string name="logo_item">Gambar produk</string>
+    <string name="foto_detail">Gambar detail produk</string>
+    <string name="judul_detail">Detail Produk</string>
+    <string name="judul_review">Review</string>
+
+    <string name="label_hp">NOMOR HP</string>
+    <string name="label_prodi">PROGRAM STUDI</string>
+    <string name="label_jurusan">JURUSAN</string>
+    <string name="label_pt">PERGURUAN TINGGI</string>
+    <string name="isi_hp">082278936354</string>
+    <string name="isi_prodi">D4 Rekayasa Perangkat Lunak</string>
+    <string name="isi_jurusan">Teknik Informatika</string>
+    <string name="isi_pt">Politeknik Negeri Bengkalis</string>
+</resources>
